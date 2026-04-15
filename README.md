@@ -5,7 +5,7 @@ A production-grade, highly available AWS architecture built entirely with Terraf
 ## 🏗 Architecture Overview
 
 
-<img width="2532" height="3082" alt="aws_architecture" src="https://github.com/user-attachments/assets/48a76e6f-e349-473f-9dbc-679019d3cc85" />
+
 
 
 
